@@ -28,3 +28,34 @@ C:\Users\losre\OneDrive\Escritorio\2024\Lenguajes Para Aplicaciones Comerciales\
 C:\Users\losre\OneDrive\Escritorio\2024\Lenguajes Para Aplicaciones Comerciales\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.pdb
 C:\Users\losre\OneDrive\Escritorio\2024\Lenguajes Para Aplicaciones Comerciales\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.genruntimeconfig.cache
 C:\Users\losre\OneDrive\Escritorio\2024\Lenguajes Para Aplicaciones Comerciales\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\ref\FinalWeb.dll
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\appsettings.Development.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\appsettings.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.staticwebassets.runtime.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.exe
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.deps.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.runtimeconfig.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.dll
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\bin\Debug\net8.0\FinalWeb.pdb
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.AssemblyInfoInputs.cache
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.AssemblyInfo.cs
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.csproj.CoreCompileInputs.cache
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.RazorAssemblyInfo.cache
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.RazorAssemblyInfo.cs
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.sourcelink.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets.build.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets.development.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets\msbuild.FinalWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.FinalWeb.props
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FinalWeb.props
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FinalWeb.props
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\scopedcss\bundle\FinalWeb.styles.css
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\scopedcss\projectbundle\FinalWeb.bundle.scp.css
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.dll
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\refint\FinalWeb.dll
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.pdb
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\FinalWeb.genruntimeconfig.cache
+D:\Universidad\ingenieria\TareaArquitecturaDDD\FinalWeb\obj\Debug\net8.0\ref\FinalWeb.dll
