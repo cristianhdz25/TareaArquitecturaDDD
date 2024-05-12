@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|c:\\users\\losre\\onedrive\\escritorio\\2024\\lenguajes para aplicaciones comerciales\\tareaarquitecturaddd\\finalweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|solutionrelative:finalweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78599B40-B920-4168-A4FE-89CC88A6B168}|Datos.Persistencia.Repositorios\\Datos.Persistencia.Repositorios.csproj|C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\datos.persistencia.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78599B40-B920-4168-A4FE-89CC88A6B168}|Datos.Persistencia.Repositorios\\Datos.Persistencia.Repositorios.csproj|solutionrelative:datos.persistencia.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 629,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\FinalWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalWeb\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\FinalWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FinalWeb\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T20:34:38.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\Datos.Persistencia.Repositorios\\Class1.cs",
+              "RelativeDocumentMoniker": "Datos.Persistencia.Repositorios\\Class1.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\2024\\Lenguajes Para Aplicaciones Comerciales\\TareaArquitecturaDDD\\Datos.Persistencia.Repositorios\\Class1.cs",
+              "RelativeToolTip": "Datos.Persistencia.Repositorios\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:23:50.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
