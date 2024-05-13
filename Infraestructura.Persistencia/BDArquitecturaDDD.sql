@@ -1,0 +1,10 @@
+CREATE DATABASE BDArquitecturaDDD
+
+CREATE TABLE Persona
+(
+    Id INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(100) NOT NULL,
+    Apellido VARCHAR(100) NOT NULL,
+    Edad INT NOT NULL
+)
+
