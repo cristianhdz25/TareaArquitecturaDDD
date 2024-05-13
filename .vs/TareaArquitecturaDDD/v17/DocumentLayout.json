@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6267425B-1B93-4820-897C-3BAD176C4289}|Infraestructura.Modelos\\Infraestructura.Modelos.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267425B-1B93-4820-897C-3BAD176C4289}|Infraestructura.Modelos\\Infraestructura.Modelos.csproj|solutionrelative:infraestructura.modelos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.repositorios\\infraestructura.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\infraestructura.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.bases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|solutionrelative:infraestructura.bases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|solutionrelative:infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FF90D1D-85EF-48B4-8359-1B01FCECCA3C}|Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.persistencia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FF90D1D-85EF-48B4-8359-1B01FCECCA3C}|Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj|solutionrelative:infraestructura.persistencia\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.repositorios\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|solutionrelative:dominio.repositorios\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826B999A-B4E5-4BBC-B813-2547FD2D2A92}|Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\aplicacion.adaptadores\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826B999A-B4E5-4BBC-B813-2547FD2D2A92}|Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj|solutionrelative:aplicacion.adaptadores\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.bases\\ientidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|solutionrelative:dominio.bases\\ientidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E2393AA-A25C-404D-AEC4-1A22CFB1BA6A}|Aplicacion.Workflows\\Aplicacion.Workflows.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\aplicacion.workflows\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E2393AA-A25C-404D-AEC4-1A22CFB1BA6A}|Aplicacion.Workflows\\Aplicacion.Workflows.csproj|solutionrelative:aplicacion.workflows\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\aplicacion.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|solutionrelative:aplicacion.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|solutionrelative:dominio.repositorios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.bases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|solutionrelative:dominio.bases\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5724FB10-F0B5-4665-B23D-E8836640C672}|Dominio.Entidades\\Dominio.Entidades.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5724FB10-F0B5-4665-B23D-E8836640C672}|Dominio.Entidades\\Dominio.Entidades.csproj|solutionrelative:dominio.entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC5FCAE-6F50-4D3D-B3B6-5686D3B3A0EA}|Seguridad\\Seguridad.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\seguridad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC5FCAE-6F50-4D3D-B3B6-5686D3B3A0EA}|Seguridad\\Seguridad.csproj|solutionrelative:seguridad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}|Utilidad\\Utilidad.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\utilidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}|Utilidad\\Utilidad.csproj|solutionrelative:utilidad\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\finalweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|solutionrelative:finalweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\finalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|solutionrelative:finalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 629,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Class1.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Modelos\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Class1.cs",
-              "RelativeToolTip": "Infraestructura.Modelos\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:27:43.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\Class1.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Bases\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\Class1.cs",
-              "RelativeToolTip": "Infraestructura.Bases\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:27:09.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Class1.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Persistencia\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Class1.cs",
-              "RelativeToolTip": "Infraestructura.Persistencia\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PersonaRepositorio.cs",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "RelativeToolTip": "Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:21:53.918Z",
+              "WhenOpened": "2024-05-12T23:56:10.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Class1.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Repositorios\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Class1.cs",
-              "RelativeToolTip": "Infraestructura.Repositorios\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IPersonaRepositorio.cs",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "RelativeDocumentMoniker": "Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "RelativeToolTip": "Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:21:14.803Z",
+              "WhenOpened": "2024-05-12T23:14:53.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Class1.cs",
-              "RelativeDocumentMoniker": "Aplicacion.Adaptadores\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Class1.cs",
-              "RelativeToolTip": "Aplicacion.Adaptadores\\Class1.cs",
+              "DocumentIndex": 0,
+              "Title": "Infraestructura.Repositorios",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
+              "RelativeDocumentMoniker": "Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
+              "RelativeToolTip": "Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:18:33.087Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T23:10:47.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Class1.cs",
-              "RelativeDocumentMoniker": "Aplicacion.Workflows\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Class1.cs",
-              "RelativeToolTip": "Aplicacion.Workflows\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Program.cs",
+              "RelativeDocumentMoniker": "FinalWeb\\Program.cs",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Program.cs",
+              "RelativeToolTip": "FinalWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:18:18.442Z",
+              "WhenOpened": "2024-05-12T23:04:55.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Class1.cs",
-              "RelativeDocumentMoniker": "Aplicacion.Servicios\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Class1.cs",
-              "RelativeToolTip": "Aplicacion.Servicios\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "EntidadBase.cs",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Bases\\EntidadBase.cs",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
+              "RelativeToolTip": "Infraestructura.Bases\\EntidadBase.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwD8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:16:27.069Z",
+              "WhenOpened": "2024-05-12T22:56:52.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\Class1.cs",
-              "RelativeDocumentMoniker": "Dominio.Repositorios\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\Class1.cs",
-              "RelativeToolTip": "Dominio.Repositorios\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "IEntidadBase.cs",
+              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\IEntidadBase.cs",
+              "RelativeDocumentMoniker": "Dominio.Bases\\IEntidadBase.cs",
+              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\IEntidadBase.cs",
+              "RelativeToolTip": "Dominio.Bases\\IEntidadBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:15:46.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\Class1.cs",
-              "RelativeDocumentMoniker": "Dominio.Bases\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\Class1.cs",
-              "RelativeToolTip": "Dominio.Bases\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:15:27.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Entidades\\Class1.cs",
-              "RelativeDocumentMoniker": "Dominio.Entidades\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Entidades\\Class1.cs",
-              "RelativeToolTip": "Dominio.Entidades\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:15:10.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Seguridad\\Class1.cs",
-              "RelativeDocumentMoniker": "Seguridad\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Seguridad\\Class1.cs",
-              "RelativeToolTip": "Seguridad\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:13:19.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Class1.cs",
-              "RelativeDocumentMoniker": "Utilidad\\Class1.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Class1.cs",
-              "RelativeToolTip": "Utilidad\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:12:53.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalWeb\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Pages\\Index.cshtml",
-              "RelativeToolTip": "FinalWeb\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T20:34:38.721Z",
+              "WhenOpened": "2024-05-12T22:38:07.739Z",
               "EditorCaption": ""
             }
           ]
