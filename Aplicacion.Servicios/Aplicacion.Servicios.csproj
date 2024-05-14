@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Adaptadores\Aplicacion.Adaptadores.csproj" />
+    <ProjectReference Include="..\Infraestructura.Repositorios\Infraestructura.Repositorios.csproj" />
+  </ItemGroup>
+
 </Project>

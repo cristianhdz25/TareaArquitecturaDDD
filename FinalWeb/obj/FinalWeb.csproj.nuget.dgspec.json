@@ -1,20 +1,151 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj": {}
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj": {
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj",
-        "projectName": "FinalWeb",
-        "projectPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\obj\\",
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj",
+        "projectName": "Aplicacion.Adaptadores",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+        "projectName": "Aplicacion.Servicios",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Aplicacion.Workflows.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Aplicacion.Workflows.csproj",
+        "projectName": "Aplicacion.Workflows",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Aplicacion.Workflows.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,6 +187,306 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj",
+        "projectName": "Dominio.Bases",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj",
+        "projectName": "Dominio.Entidades",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj",
+        "projectName": "Dominio.Repositorios",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj",
+        "projectName": "FinalWeb",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\FinalWeb\\FinalWeb.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\FinalWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Aplicacion.Workflows.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Workflows\\Aplicacion.Workflows.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\Seguridad.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\Seguridad.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
@@ -63,7 +494,403 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj",
+        "projectName": "Infraestructura.Bases",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Bases\\Dominio.Bases.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Entidades\\Dominio.Entidades.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj",
+        "projectName": "Infraestructura.Modelos",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj",
+        "projectName": "Infraestructura.Persistencia",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\Infraestructura.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
+        "projectName": "Infraestructura.Repositorios",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\Dominio.Repositorios.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\Infraestructura.Bases.csproj"
+              },
+              "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Persistencia\\Infraestructura.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\Seguridad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\Seguridad.csproj",
+        "projectName": "Seguridad",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\Seguridad.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Seguridad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
+        "projectName": "Utilidad",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

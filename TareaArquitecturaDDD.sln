@@ -5,41 +5,41 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentacion", "1. Presentacion", "{B97C8494-6A60-4716-B443-45BDF032E19F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalWeb", "FinalWeb\FinalWeb.csproj", "{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Aplicacion", "2.Aplicacion", "{AAA5C1A1-37AF-4C80-B4E2-FF43C6AA05E4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Transversal", "3.Transversal", "{AECD0C9D-A7F7-4FC3-AA20-F33648A2EE1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilidad", "Utilidad\Utilidad.csproj", "{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilidad", "Utilidad\Utilidad.csproj", "{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seguridad", "Seguridad\Seguridad.csproj", "{FFC5FCAE-6F50-4D3D-B3B6-5686D3B3A0EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seguridad", "Seguridad\Seguridad.csproj", "{FFC5FCAE-6F50-4D3D-B3B6-5686D3B3A0EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 Dominio", "2.2 Dominio", "{93239D69-BDAB-4814-9668-E34EC9D701FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.3 Infraestructura", "2.3 Infraestructura", "{68291BA4-36FF-48A5-A11E-1038022FF89A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio.Entidades", "Dominio.Entidades\Dominio.Entidades.csproj", "{5724FB10-F0B5-4665-B23D-E8836640C672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio.Entidades", "Dominio.Entidades\Dominio.Entidades.csproj", "{5724FB10-F0B5-4665-B23D-E8836640C672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio.Bases", "Dominio.Bases\Dominio.Bases.csproj", "{8978CFDF-92D8-4F64-944B-7FA40E5518D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio.Bases", "Dominio.Bases\Dominio.Bases.csproj", "{8978CFDF-92D8-4F64-944B-7FA40E5518D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio.Repositorios", "Dominio.Repositorios\Dominio.Repositorios.csproj", "{EAACFE7F-3991-4B87-88AD-117290B0033D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio.Repositorios", "Dominio.Repositorios\Dominio.Repositorios.csproj", "{EAACFE7F-3991-4B87-88AD-117290B0033D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.Servicios", "Aplicacion.Servicios\Aplicacion.Servicios.csproj", "{16CF249B-3BFF-4491-BB66-8A6E1B47050F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacion.Servicios", "Aplicacion.Servicios\Aplicacion.Servicios.csproj", "{16CF249B-3BFF-4491-BB66-8A6E1B47050F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Aplicacion", "2.1 Aplicacion", "{825179B3-0F00-4508-9296-EE2EE15B2458}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.Workflows", "Aplicacion.Workflows\Aplicacion.Workflows.csproj", "{6E2393AA-A25C-404D-AEC4-1A22CFB1BA6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacion.Workflows", "Aplicacion.Workflows\Aplicacion.Workflows.csproj", "{6E2393AA-A25C-404D-AEC4-1A22CFB1BA6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.Adaptadores", "Aplicacion.Adaptadores\Aplicacion.Adaptadores.csproj", "{826B999A-B4E5-4BBC-B813-2547FD2D2A92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacion.Adaptadores", "Aplicacion.Adaptadores\Aplicacion.Adaptadores.csproj", "{826B999A-B4E5-4BBC-B813-2547FD2D2A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura.Repositorios", "Infraestructura.Repositorios\Infraestructura.Repositorios.csproj", "{28CF8906-EF85-4B10-A1E0-3C929ED98282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructura.Repositorios", "Infraestructura.Repositorios\Infraestructura.Repositorios.csproj", "{28CF8906-EF85-4B10-A1E0-3C929ED98282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura.Persistencia", "Infraestructura.Persistencia\Infraestructura.Persistencia.csproj", "{2FF90D1D-85EF-48B4-8359-1B01FCECCA3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructura.Persistencia", "Infraestructura.Persistencia\Infraestructura.Persistencia.csproj", "{2FF90D1D-85EF-48B4-8359-1B01FCECCA3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura.Bases", "Infraestructura.Bases\Infraestructura.Bases.csproj", "{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructura.Bases", "Infraestructura.Bases\Infraestructura.Bases.csproj", "{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura.Modelos", "Infraestructura.Modelos\Infraestructura.Modelos.csproj", "{6267425B-1B93-4820-897C-3BAD176C4289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructura.Modelos", "Infraestructura.Modelos\Infraestructura.Modelos.csproj", "{6267425B-1B93-4820-897C-3BAD176C4289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaArquitecturaDDDAPI", "TareaArquitecturaDDDAPI\TareaArquitecturaDDDAPI.csproj", "{B0A336B6-CE96-458C-A094-780855BA5765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,12 +95,15 @@ Global
 		{6267425B-1B93-4820-897C-3BAD176C4289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6267425B-1B93-4820-897C-3BAD176C4289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6267425B-1B93-4820-897C-3BAD176C4289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A336B6-CE96-458C-A094-780855BA5765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A336B6-CE96-458C-A094-780855BA5765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A336B6-CE96-458C-A094-780855BA5765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A336B6-CE96-458C-A094-780855BA5765}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{A64AB34E-E3BA-4726-BBF5-84134A6DB17B} = {B97C8494-6A60-4716-B443-45BDF032E19F}
 		{F7CE5D2B-D363-4412-A9FB-E26EF7F78E88} = {AECD0C9D-A7F7-4FC3-AA20-F33648A2EE1D}
 		{FFC5FCAE-6F50-4D3D-B3B6-5686D3B3A0EA} = {AECD0C9D-A7F7-4FC3-AA20-F33648A2EE1D}
 		{93239D69-BDAB-4814-9668-E34EC9D701FB} = {AAA5C1A1-37AF-4C80-B4E2-FF43C6AA05E4}
@@ -120,6 +119,7 @@ Global
 		{2FF90D1D-85EF-48B4-8359-1B01FCECCA3C} = {68291BA4-36FF-48A5-A11E-1038022FF89A}
 		{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2} = {68291BA4-36FF-48A5-A11E-1038022FF89A}
 		{6267425B-1B93-4820-897C-3BAD176C4289} = {68291BA4-36FF-48A5-A11E-1038022FF89A}
+		{B0A336B6-CE96-458C-A094-780855BA5765} = {B97C8494-6A60-4716-B443-45BDF032E19F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DEADC8CF-32D7-4D97-80EE-82000F324740}

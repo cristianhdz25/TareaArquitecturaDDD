@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\",
+  "WorkspaceRootPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.repositorios\\infraestructura.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\infraestructura.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B0A336B6-CE96-458C-A094-780855BA5765}|TareaArquitecturaDDDAPI\\TareaArquitecturaDDDAPI.csproj|c:\\users\\losre\\onedrive\\escritorio\\tareaarquitecturaddd\\tareaarquitecturadddapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A336B6-CE96-458C-A094-780855BA5765}|TareaArquitecturaDDDAPI\\TareaArquitecturaDDDAPI.csproj|solutionrelative:tareaarquitecturadddapi\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|solutionrelative:infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\aplicacion.servicios\\personaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|solutionrelative:aplicacion.servicios\\personaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826B999A-B4E5-4BBC-B813-2547FD2D2A92}|Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj|c:\\users\\losre\\onedrive\\escritorio\\tareaarquitecturaddd\\aplicacion.adaptadores\\personamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826B999A-B4E5-4BBC-B813-2547FD2D2A92}|Aplicacion.Adaptadores\\Aplicacion.Adaptadores.csproj|solutionrelative:aplicacion.adaptadores\\personamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.repositorios\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\dominio.repositorios\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAACFE7F-3991-4B87-88AD-117290B0033D}|Dominio.Repositorios\\Dominio.Repositorios.csproj|solutionrelative:dominio.repositorios\\ipersonarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\dominio.bases\\ientidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8978CFDF-92D8-4F64-944B-7FA40E5518D6}|Dominio.Bases\\Dominio.Bases.csproj|solutionrelative:dominio.bases\\ientidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|c:\\users\\losre\\onedrive\\escritorio\\tareaarquitecturaddd\\infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CF8906-EF85-4B10-A1E0-3C929ED98282}|Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj|solutionrelative:infraestructura.repositorios\\personarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|d:\\universidad\\ingenieria\\tareaarquitecturaddd\\finalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64AB34E-E3BA-4726-BBF5-84134A6DB17B}|FinalWeb\\FinalWeb.csproj|solutionrelative:finalweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6267425B-1B93-4820-897C-3BAD176C4289}|Infraestructura.Modelos\\Infraestructura.Modelos.csproj|c:\\users\\losre\\onedrive\\escritorio\\tareaarquitecturaddd\\infraestructura.modelos\\personamodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267425B-1B93-4820-897C-3BAD176C4289}|Infraestructura.Modelos\\Infraestructura.Modelos.csproj|solutionrelative:infraestructura.modelos\\personamodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6495D64-CAFB-4FEC-B2C7-F3CF5F0C8CB2}|Infraestructura.Bases\\Infraestructura.Bases.csproj|solutionrelative:infraestructura.bases\\entidadbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A336B6-CE96-458C-A094-780855BA5765}|TareaArquitecturaDDDAPI\\TareaArquitecturaDDDAPI.csproj|C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\tareaarquitecturadddapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A336B6-CE96-458C-A094-780855BA5765}|TareaArquitecturaDDDAPI\\TareaArquitecturaDDDAPI.csproj|solutionrelative:tareaarquitecturadddapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|c:\\users\\losre\\onedrive\\escritorio\\tareaarquitecturaddd\\aplicacion.servicios\\aplicacion.servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16CF249B-3BFF-4491-BB66-8A6E1B47050F}|Aplicacion.Servicios\\Aplicacion.Servicios.csproj|solutionrelative:aplicacion.servicios\\aplicacion.servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +46,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 629,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PersonaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\PersonaMapper.cs",
+              "RelativeDocumentMoniker": "Aplicacion.Adaptadores\\PersonaMapper.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Adaptadores\\PersonaMapper.cs",
+              "RelativeToolTip": "Aplicacion.Adaptadores\\PersonaMapper.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:01:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaModelo.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\PersonaModelo.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Modelos\\PersonaModelo.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Modelos\\PersonaModelo.cs",
+              "RelativeToolTip": "Infraestructura.Modelos\\PersonaModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:59:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PersonaRepositorio.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
               "RelativeDocumentMoniker": "Infraestructura.Repositorios\\PersonaRepositorio.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\PersonaRepositorio.cs",
               "RelativeToolTip": "Infraestructura.Repositorios\\PersonaRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T23:56:10.458Z",
               "EditorCaption": ""
@@ -53,65 +91,78 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IPersonaRepositorio.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
               "RelativeDocumentMoniker": "Dominio.Repositorios\\IPersonaRepositorio.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Dominio.Repositorios\\IPersonaRepositorio.cs",
               "RelativeToolTip": "Dominio.Repositorios\\IPersonaRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T23:14:53.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Infraestructura.Repositorios",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
-              "RelativeDocumentMoniker": "Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
-              "RelativeToolTip": "Infraestructura.Repositorios\\Infraestructura.Repositorios.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-12T23:10:47.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Program.cs",
-              "RelativeDocumentMoniker": "FinalWeb\\Program.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\FinalWeb\\Program.cs",
-              "RelativeToolTip": "FinalWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T23:04:55.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PersonaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\PersonaServicio.cs",
+              "RelativeDocumentMoniker": "Aplicacion.Servicios\\PersonaServicio.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\PersonaServicio.cs",
+              "RelativeToolTip": "Aplicacion.Servicios\\PersonaServicio.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:03:27.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\TareaArquitecturaDDDAPI\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "TareaArquitecturaDDDAPI\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\TareaArquitecturaDDDAPI\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "TareaArquitecturaDDDAPI\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:54:24.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EntidadBase.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
               "RelativeDocumentMoniker": "Infraestructura.Bases\\EntidadBase.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Infraestructura.Bases\\EntidadBase.cs",
               "RelativeToolTip": "Infraestructura.Bases\\EntidadBase.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwD8AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T22:56:52.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEntidadBase.cs",
-              "DocumentMoniker": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\IEntidadBase.cs",
-              "RelativeDocumentMoniker": "Dominio.Bases\\IEntidadBase.cs",
-              "ToolTip": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Dominio.Bases\\IEntidadBase.cs",
-              "RelativeToolTip": "Dominio.Bases\\IEntidadBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\TareaArquitecturaDDDAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TareaArquitecturaDDDAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\TareaArquitecturaDDDAPI\\Program.cs",
+              "RelativeToolTip": "TareaArquitecturaDDDAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:38:07.739Z",
+              "WhenOpened": "2024-05-14T02:59:34.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aplicacion.Servicios",
+              "DocumentMoniker": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+              "RelativeDocumentMoniker": "Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+              "ToolTip": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+              "RelativeToolTip": "Aplicacion.Servicios\\Aplicacion.Servicios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T03:54:12.349Z",
               "EditorCaption": ""
             }
           ]

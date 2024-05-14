@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {}
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {
+    "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
+        "projectUniqueName": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
         "projectName": "Utilidad",
-        "projectPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\ingenieria\\TareaArquitecturaDDD\\Utilidad\\obj\\",
+        "projectPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\Utilidad.csproj",
+        "packagesPath": "C:\\Users\\losre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\losre\\OneDrive\\Escritorio\\TareaArquitecturaDDD\\Utilidad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\losre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

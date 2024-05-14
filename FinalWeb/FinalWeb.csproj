@@ -6,4 +6,32 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Adaptadores\Aplicacion.Adaptadores.csproj" />
+    <ProjectReference Include="..\Aplicacion.Servicios\Aplicacion.Servicios.csproj" />
+    <ProjectReference Include="..\Aplicacion.Workflows\Aplicacion.Workflows.csproj" />
+    <ProjectReference Include="..\Dominio.Bases\Dominio.Bases.csproj" />
+    <ProjectReference Include="..\Dominio.Entidades\Dominio.Entidades.csproj" />
+    <ProjectReference Include="..\Dominio.Repositorios\Dominio.Repositorios.csproj" />
+    <ProjectReference Include="..\Infraestructura.Bases\Infraestructura.Bases.csproj" />
+    <ProjectReference Include="..\Infraestructura.Modelos\Infraestructura.Modelos.csproj" />
+    <ProjectReference Include="..\Infraestructura.Persistencia\Infraestructura.Persistencia.csproj" />
+    <ProjectReference Include="..\Infraestructura.Repositorios\Infraestructura.Repositorios.csproj" />
+    <ProjectReference Include="..\Seguridad\Seguridad.csproj" />
+    <ProjectReference Include="..\Utilidad\Utilidad.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\Persona\" />
+  </ItemGroup>
+
 </Project>

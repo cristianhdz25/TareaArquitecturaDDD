@@ -11,7 +11,7 @@ namespace Infraestructura.Bases
 {
     public class EntidadBase<T> : IEntidadBase<T> where T : class
     {
-        // generar contecto
+        // generar contexto
         protected BDArquitecturaDDDContext context;
 
         public EntidadBase(BDArquitecturaDDDContext context) { 
@@ -63,7 +63,7 @@ namespace Infraestructura.Bases
 
         public async Task<T?> Obtener(int id)
         {
-            return this.context.Set<T>().Find(id);
+            return await this.context.Set<T>().FindAsync(id);
         }
 
         public async Task<IEnumerable<T>> ObtenerTodos()
