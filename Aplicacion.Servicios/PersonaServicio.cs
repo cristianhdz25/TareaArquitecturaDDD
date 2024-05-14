@@ -49,6 +49,12 @@ namespace Aplicacion.Servicios
             return await _personaRepositorio.Eliminar(personaModelo);
         }
 
+        public async Task<IEnumerable<PersonaEntidad>> OrdenarPersonasPorEdad()
+        {
+            IEnumerable<PersonaModelo> personas = await _personaRepositorio.OrdenarPersonasPorEdad();
+            IEnumerable<PersonaEntidad> personasEntidad = PersonaMapper.Map(personas);
+            return personasEntidad;
+        }
 
     }
 }

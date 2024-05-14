@@ -21,5 +21,7 @@ namespace Dominio.Repositorios
         Task<IEnumerable<PersonaModelo>> ObtenerTodos();
 
         Task<bool> Eliminar(PersonaModelo entidad);
+
+        Task<IEnumerable<PersonaModelo>> OrdenarPersonasPorEdad();
     }
 }

@@ -56,5 +56,13 @@ namespace TareaArquitecturaDDDAPI.Controllers
             PersonaEntidad personaEntidad = PersonaMapper.Map(persona);
             return Ok(await _personaServicio.Eliminar(personaEntidad));
         }
+
+        [HttpGet]
+        [Route("OrdenarPorEdad")]
+        public async Task<IActionResult> OrdenarPorEdad()
+        {
+            PersonaDTO[] personas = (await _personaServicio.OrdenarPersonasPorEdad()).Select(p => PersonaMapper.Map(p)).ToArray();
+            return Ok(personas);
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dominio.Repositorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e091d1c225d9ff079d698870cb4a8abf5f24a963")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39e7ba698af98f2c8553d2962c979d84b36152e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dominio.Repositorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dominio.Repositorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
